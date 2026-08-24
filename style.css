@@ -1396,7 +1396,8 @@ footer {
   .quality__description,
   .steps__description,
   .values__description,
-  .testimonials__description {
+  .testimonials__description,
+  .pricing__description {
     padding: 0;
     margin-top: 64px;
     text-align: center;
